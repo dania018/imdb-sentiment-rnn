@@ -66,7 +66,3 @@ TF-IDF vector (5000)
 ## Tech Stack
 
 Python · PyTorch · NLTK · scikit-learn · pandas · Jupyter
-
----
-
-**Dania Malik**: [LinkedIn](#) · [GitHub](https://github.com/dania018)
